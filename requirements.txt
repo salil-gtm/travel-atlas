@@ -1,0 +1,4 @@
+prefab-ui>=0.1.0
+fastmcp>=0.2.0
+google-genai>=0.3.0
+python-dotenv>=1.0.0
